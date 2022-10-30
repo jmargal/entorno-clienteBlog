@@ -1,0 +1,100 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "tittle": "Champions",
+      "date": "2022-10-15",
+      "authorId": "1"
+    },
+    {
+      "id": 2,
+      "tittle": "Carro",
+      "date": "2022-10-13",
+      "authorId": "2"
+    },
+    {
+      "id": 3,
+      "tittle": "Ofu",
+      "date": "2022-10-11",
+      "authorId": "3"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Paco",
+      "nick": "shu_pako"
+    },
+    {
+      "id": 2,
+      "name": "Rafae",
+      "nick": "rafitaYT"
+    },
+    {
+      "id": 3,
+      "name": "Manue",
+      "nick": "lolo23"
+    },
+    {
+      "name": "Total look",
+      "nick": "lookie",
+      "id": 4
+    },
+    {
+      "name": "Javi",
+      "nick": "lookie",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "content": "Hala Madrid",
+      "authorId": 1,
+      "postId": 1,
+      "dateStamp": "2022-10-15:13-1-2"
+    },
+    {
+      "id": 2,
+      "content": "Yo creo q ji",
+      "authorId": 2,
+      "postId": 2,
+      "dateStamp": "2022-10-14:13-11-22"
+    },
+    {
+      "id": 3,
+      "content": "Disgusto gordo",
+      "authorId": 3,
+      "postId": 3,
+      "dateStamp": "2022-10-05:14-11-22"
+    },
+    {
+      "id": 4,
+      "content": "Y nada más",
+      "authorId": 2,
+      "postId": 1,
+      "dateStamp": "2022-10-15:13-1-2"
+    },
+    {
+      "content": "lololololo",
+      "authorId": "1",
+      "postId": "2",
+      "dateStamp": "22-1-21",
+      "id": 5
+    },
+    {
+      "content": "scd",
+      "authorId": "1",
+      "postId": "1",
+      "dateStamp": "Sun Oct 30 2022 19:53:38 GMT+0100 (hora estándar de Europa central)",
+      "id": 6
+    },
+    {
+      "content": "u76u",
+      "authorId": "2",
+      "postId": "1",
+      "dateStamp": "Sun Oct 30 2022 19:56:49 GMT+0100 (hora estándar de Europa central)",
+      "id": 7
+    }
+  ]
+}
